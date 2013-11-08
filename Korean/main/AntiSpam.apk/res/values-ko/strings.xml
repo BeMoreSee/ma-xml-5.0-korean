@@ -12,7 +12,7 @@
     <string name="act_call">통화 차단 방식</string>
     <string name="act_del_ms">수신거부하고 차단기록에 남김</string>
     <string name="act_del_ms_summary">수신거부한 메시지는 메시지 대화목록에 표시되지 않음</string>
-    <string name="act_hangup_call">수신거부하고 차단기록에 남김</string>
+    <string name="act_hangup_call">수신거부 후 차단기록에 남김</string>
     <string name="act_hangup_call_summary">수신거부한 통화는 통화기록에 기록되지 않음</string>
     <string name="act_ignore_call">수신거부하지 않음</string>
     <string name="act_ignore_ms">수신거부하지 않음</string>
@@ -134,7 +134,7 @@
     <string name="show_firewall_notification">상태표시줄에 항상 보임</string>
     <string name="show_notification">차단 시 알림</string>
     <string name="smart_antispam">스마트 스팸차단</string>
-    <string name="turn_on_smart_antispam_hint">활성화를 하면 전화번호와 라벨을 구분해 스팸차단하는데 도움이 될것입니다.</string>
+    <string name="turn_on_smart_antispam_hint">활성화하면 전화번호와 라벨을 구분해 스팸을 차단하는데 도움이 될것입니다.</string>
     <string name="turn_on_smart_antispam_summary_off">조회 지역 번호 데이터 베이스</string>
     <string name="turn_on_smart_antispam_summary_on">Wi-Fi 나 3G 연결된 상태에서만 동작합니다.</string>
     <string name="turn_on_smart_antispam_title">알 수 없는 번호 식별</string>
