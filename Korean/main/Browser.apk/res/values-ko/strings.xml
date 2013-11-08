@@ -104,6 +104,7 @@
   <string name="clip_dialog_title">링크를 복사하겠습니까?</string>
   <string name="close_all_tab_alert_message">모든탭을 닫겠습니까?</string>
   <string name="close_all_tab_alert_title">모든탭 닫기</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.kr</string>
   <string name="containing_folder">추가할 위치</string>
   <string name="contextheader_folder_bookmarkcount">북마크 %d개</string>
   <string name="contextheader_folder_empty">빈 폴더</string>
