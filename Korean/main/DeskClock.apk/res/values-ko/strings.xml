@@ -129,10 +129,10 @@
   <string name="timezone_exist_error_message">시간대 추가 실패. 시간대가 이미 존재합니다.</string>
   <string name="timezone_search_hint">세계시간 추가할 도시를 선택합니다.</string>
   <string name="volume_button_dialog_title">버튼 효과</string>
-  <string name="volume_button_setting_summary">알람이 울리는동안 버튼을누르면 설정됩니다.</string>
+  <string name="volume_button_setting_summary">알람이 울리는 동안 버튼을 누르면 설정됩니다.</string>
   <string name="volume_button_setting_title">하드웨어 버튼</string>
   <string name="wait_when_operating_data_message">데이터 처리중 잠시만 기다려주세요</string>
-  <string name="weather_fetch_failure">현제 날씨정보는 사용할 수 없습니다.</string>
+  <string name="weather_fetch_failure">현재 날씨정보는 사용할 수 없습니다.</string>
   <string name="weekend_alarm_clock">주말 알람</string>
   <string name="workday_alarm_clock">평일 알람</string>
   <string name="worldclock_empty_text">세계시계 없음</string>
