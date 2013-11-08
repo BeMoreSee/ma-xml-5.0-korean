@@ -8,7 +8,7 @@
   <string name="local_invisible_directory">기타</string>
   <string name="pound_search_tip">\"#\"를 입력후 번호를 입력하면 번호별 검색이 가능합니다.</string>
   <string name="provider_label">연락처</string>
-  <string name="read_write_all_voicemail_description">어플리케이션이 음성사서함을 저장하고 받아올 수 있습니다.</string>
+  <string name="read_write_all_voicemail_description">애플리케이션이 음성사서함을 저장하고 받아올 수 있습니다.</string>
   <string name="read_write_all_voicemail_label">모든 음성사서함 접근</string>
   <string name="send_sms">문자메세지 보내기</string>
   <string name="sharedUserLabel">안드로이드 시스템 앱</string>
