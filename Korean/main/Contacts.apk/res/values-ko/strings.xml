@@ -26,7 +26,7 @@
     <string name="callShortcutActivityTitle" msgid="6065749861423648991">"전화번호 선택"</string>
     <string name="messageShortcutActivityTitle" msgid="3084542316620335911">"메시지를 보낼 번호 선택"</string>
     <string name="contactPickerActivityTitle" msgid="6886592363525235031">"연락처 선택"</string>
-    <string name="starredList" msgid="4817256136413959463">"중요주소록"</string>
+    <string name="starredList" msgid="4817256136413959463">"중요 주소록"</string>
     <string name="frequentList" msgid="7154768136473953056">"자주 사용하는 연락처"</string>
     <string name="strequentList" msgid="5640192862059373511">"즐겨찾기"</string>
     <string name="viewContactTitle" msgid="7989394521836644384">"연락처 세부정보"</string>
@@ -259,7 +259,7 @@
     <string name="menu_import_export" msgid="3765725645491577190">"가져오기/내보내기"</string>
     <string name="dialog_import_export" msgid="4771877268244096596">"연락처 가져오기/내보내기"</string>
     <string name="menu_share" msgid="943789700636542260">"공유"</string>
-    <string name="share_via" msgid="563121028023030093">"연락처 공유에 사용할 애플리케이션:"</string>
+    <string name="share_via" msgid="563121028023030093">"연락처 공유에 사용할 앱:"</string>
     <string name="share_error" msgid="4374508848981697170">"연락처를 공유할 수 없습니다."</string>
     <string name="nameLabelsGroup" msgid="2034640839640477827">"이름"</string>
     <string name="nicknameLabelsGroup" msgid="2891682101053358010">"닉네임"</string>
@@ -365,7 +365,7 @@
     <!-- no translation found for from_account_format (4469138575127580203) -->
     <skip />
     <string name="use_photo_as_primary" msgid="8807110122951157246">"사진 사용"</string>
-    <string name="contact_read_only" msgid="1856479476063888348">"이 애플리케이션에서 수정할 수 없음"</string>
+    <string name="contact_read_only" msgid="1856479476063888348">"이 앱에서 수정할 수 없음"</string>
     <string name="no_contact_details" msgid="6754415338321837001">"연락처에 대한 추가 정보가 없습니다."</string>
     <string name="group_read_only" msgid="7924922658394449477">"이 기기에서 수정할 수 없음"</string>
     <string name="display_options_sort_list_by" msgid="6080091755852211076">"목록 정렬 기준"</string>
@@ -382,7 +382,7 @@
     <string name="locale_change_in_progress" msgid="7583992153091537467">"변경된 언어를 반영하도록 주소록을 업데이트하는 중입니다. 잠시 기다려 주세요."</string>
     <string name="upgrade_in_progress" msgid="474511436863451061">"주소록을 업데이트하고 있습니다."</string>
     <string name="upgrade_out_of_memory" msgid="6153384328042175667">"주소록을 업그레이드하는 중입니다. "\n\n"업그레이드 프로세스에는 약 <xliff:g id="SIZE_IN_MEGABYTES">%s</xliff:g>MB의 내부 저장공간이 필요합니다."\n\n"다음 옵션 중 하나를 선택하세요."</string>
-    <string name="upgrade_out_of_memory_uninstall" msgid="1721798828992091432">"일부 애플리케이션 제거"</string>
+    <string name="upgrade_out_of_memory_uninstall" msgid="1721798828992091432">"일부 앱 제거"</string>
     <string name="upgrade_out_of_memory_retry" msgid="8431289830472724609">"업그레이드 다시 시도"</string>
     <string name="search_results_searching" msgid="7755623475227227314">"검색 중..."</string>
     <string name="no_contacts_selected" msgid="5877803471037324613">"선택한 연락처가 없습니다."</string>
