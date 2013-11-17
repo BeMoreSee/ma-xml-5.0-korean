@@ -16,7 +16,6 @@ FaceLock.apk /system/app/FaceLock.apk
 FileExplorer.apk /system/app/FileExplorer.apk
 HTMLViewer.apk /system/app/HTMLViewer.apk
 LBESEC_MIUI.apk /system/app/LBESEC_MIUI.apk
-MiuiCompass.apk /system/app/MiuiCompass.apk
 MiuiGallery.apk /system/app/MiuiGallery.apk
 MiuiHome.apk /system/app/MiuiHome.apk
 MiuiSystemUI.apk /system/app/MiuiSystemUI.apk
@@ -38,5 +37,4 @@ XiaomiServiceFramework.apk /system/app/XiaomiServiceFramework.apk
 framework-res.apk /system/framework/framework-res.apk
 framework-miui-res.apk /system/framework/framework-miui-res.apk
 MiuiVideoPlayer.apk /system/app/MiuiVideoPlayer.apk
-LegacyCamera.apk /system/app/LegacyCamera.apk
 Transfer.apk /system/app/transfer.apk
